@@ -121,21 +121,31 @@ enableEmoji = true
 
 [menu]
   # Configure header
-#  [[menu.header]]
-#    name = "About"
-#    title = "About this website"
-#    url = "/about/"
-#    weight = 1
- # [[menu.header]]
-  #  name = "Blog"
-  #  title = "Blog"
-  #  url = "/blog/"
-  #  weight = 2
+  [[menu.header]]
+    name = "About"
+    title = "About this website"
+   url = "/about/"
+    weight = 1
+  [[menu.header]]
+    name = "Slides"
+    title = "Materials"
+    url = "/materials/"
+    weight = 2
   [[menu.header]]
     name = "Authors"
     title = "Authors"
     url = "/people/"
     weight = 4
+  [[menu.header]]
+    name = "Resources"
+    title = "Resources"
+    url = "/resources/"
+    weight = 3
+  #[[menu.header]]
+  #  name = "Blog"
+  #  title = "Blog"
+  #  url = "/blog/"
+  #  weight = 2
  # [[menu.header]]
   #  name = "Remove"
   #  title = "Talks"
@@ -146,16 +156,6 @@ enableEmoji = true
   #   title = "Slides"
   #   url = "/slides/"
   #   weight = 5
-  [[menu.header]]
-    name = "Resources"
-    title = "Resource Pack"
-    url = "/resources/"
-    weight = 3
-  [[menu.header]]
-    name = "Slides"
-    title = "Materials"
-    url = "/materials/"
-    weight = 2
 
   # Configure footer
   [[menu.footer]]
