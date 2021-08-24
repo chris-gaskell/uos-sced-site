@@ -7,7 +7,17 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
   Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
-  
+
+    ```r
+    > install.packages(c("usethis", "remotes", "distill", 
+                       "postcards", "blogdown", "xaringanExtra"))
+    ```
+    
+    ```r   
+    xaringanExtra::embed_xaringan(
+    > url = "https://build-your-own-universe.netlify.app", ratio = "16:9")
+    ```
+
   I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
 show_outro: true
 outro: |

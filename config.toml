@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "Anywhere"
   description = "A website For all resources related to single case experimental design."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/logo.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -121,11 +121,11 @@ enableEmoji = true
 
 [menu]
   # Configure header
-  [[menu.header]]
-    name = "About"
-    title = "About this website"
-    url = "/about/"
-    weight = 1
+#  [[menu.header]]
+#    name = "About"
+#    title = "About this website"
+#    url = "/about/"
+#    weight = 1
  # [[menu.header]]
   #  name = "Blog"
   #  title = "Blog"
@@ -134,23 +134,28 @@ enableEmoji = true
   [[menu.header]]
     name = "Authors"
     title = "Authors"
-    url = "/author/"
-    weight = 3
+    url = "/people/"
+    weight = 4
  # [[menu.header]]
   #  name = "Remove"
   #  title = "Talks"
   #  url = "/talk/"
   #  weight = 4
-  [[menu.header]]
-    name = "Slides"
-    title = "Slides"
-    url = "/slides/"
-    weight = 5
+  # [[menu.header]]
+  #   name = "Slides"
+  #   title = "Slides"
+  #   url = "/slides/"
+  #   weight = 5
   [[menu.header]]
     name = "Resources"
     title = "Resource Pack"
     url = "/resources/"
-    weight = 6
+    weight = 3
+  [[menu.header]]
+    name = "Slides"
+    title = "Materials"
+    url = "/materials/"
+    weight = 2
 
   # Configure footer
   [[menu.footer]]

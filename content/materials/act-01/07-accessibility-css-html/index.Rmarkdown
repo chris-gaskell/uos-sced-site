@@ -1,0 +1,18 @@
+---
+title: "Teaching Slides"
+weight: 1
+show_post_date: false
+publishDate: 2021-07-06
+excerpt: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE)
+
+xaringanExtra::use_clipboard()
+```
+
+```{r embed-xaringan, echo=FALSE, eval=TRUE}
+xaringanExtra::embed_xaringan(url = "https://chris-gaskell.github.io/uos-sced/day-one/index.html")
+```
+
