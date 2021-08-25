@@ -1,5 +1,5 @@
 ---
-title: AB design
+title: Bi-phasic
 #author: Chris Gaskell
 #date: '2022-24-08'
 #slug: Shiny apps for single case experimental design.
@@ -15,12 +15,29 @@ output:
 # draft: true
 runtime: shiny
 links:
-- icon: images
+- icon: file-excel
   icon_pack: fas
-  name: slides
+  name: data (excel)
   url: "/practice/ab-design/files/AB_datasets.xlsx"
-- icon: theater-masks
+- icon: poll
   icon_pack: fas
-  name: activity
-  url: "/materials/act-03/07-accessibility-css-html/#activity"
+  name: results
+  url: "/practice/ab-design/files/AB_example_results.pdf"
+- icon: calculator
+  icon_pack: fas
+  name: RCI calculator
+  url: "/practice/ab-design/files/leeds-calculator.xlsm"
+- icon: book
+  icon_pack: fas
+  name: RCI book
+  url: "/practice/ab-design/files/leeds-manual.pdf"
+- icon: book
+  icon_pack: fas
+  name: shiny guide
+  url: "/practice/ab-design/files/shiny-guide.pdf"
+- icon: file-powerpoint
+  icon_pack: fas
+  name: Presentation
+  url: "/practice/ab-design/files/Presentation_template.pptx"
+
 ---
