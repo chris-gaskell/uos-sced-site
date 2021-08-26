@@ -8,7 +8,7 @@ title: Contributors
 
 Thank you to all the folks who have contributed both technical and creative skills to this project:
 
-+ [Desirée De Leon :giraffe:](http://desiree.rbind.io/) (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
++ [Person one :giraffe:](http://desiree.rbind.io/) (did this)
 
 + [Garrick Aden-Buie :mage:](https://www.garrickadenbuie.com/) (debugged headroom.js and lent his panelset.js code to the theme)
 

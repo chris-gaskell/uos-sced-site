@@ -3,9 +3,9 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Single case resource pack 
+  Single case experimental design 
 ---
 
 <!-- this is a subheadline -->
-Here are all the resources that Mel has kindly put together to assist you with single case experimental design.
+lorem ipsum.
 

@@ -1,6 +1,6 @@
 ---
-title: Shiny apps
-author: Chris Gaskell
+title: Shiny Apps
+author:
 date: '2022-24-08'
 slug: Shiny apps for single case experimental design.
 categories: []

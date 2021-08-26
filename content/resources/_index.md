@@ -15,11 +15,11 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Get started
-  author: Alison Hill
+  title: Resources
+  author:
   description: |
-    Start using Hugo Apéro with GitHub, Netlify, and the blogdown R package with RStudio.
-  text_link_label: "Visit the demo site"
+    Here are some useful resources to help along the way.
+  # text_link_label: "Visit the demo site"
   text_link_url: "https://hugo-apero.netlify.app/"
   show_sidebar_adunit: false # show ad container
 
@@ -27,14 +27,14 @@ sidebar:
 cascade:
   type: collection
   layout: single-series       # for a series, do not change
-  author: Alison Hill
+  author:
   show_author_byline: true
-  show_post_date: true
+  show_post_date: false
   sidebar:
-    text_link_label: "Visit the demo site"
+    # text_link_label: "Visit the demo site"
     text_link_url: "https://hugo-apero.netlify.app/"
     show_sidebar_adunit: false # show ad container
-    text_series_label: "In this series" 
+    text_series_label: "Resources" 
     text_contents_label: "On this page" 
 ---
 
