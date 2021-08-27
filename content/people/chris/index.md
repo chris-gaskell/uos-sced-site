@@ -2,7 +2,7 @@
 title: "Chris Gaskell"
 subtitle: "Clinical Psychologist"
 excerpt: >
-  **Honorary Researcher**<br>Passionate about clinical psychology and innovation!
+  **Clinical Psychologist**<br>Passionate about clinical psychology and innovation!
 type: people
 show_post_image: true
 weight: 1

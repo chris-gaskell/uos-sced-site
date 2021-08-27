@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  lorem ipsum.
+  ... Mel and Steve to do this bit.
 
 ---
 

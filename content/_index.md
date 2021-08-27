@@ -5,7 +5,7 @@ action_type: text
 description: General text about the single case design.
 image_left: true
 images:
-- img/stats.jpg
+- sced.jpg
 show_action_link: true
 show_social_links: false
 subtitle: A Guide for routine conditions

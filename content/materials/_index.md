@@ -15,7 +15,7 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   show_author_byline: true
-  show_post_date: true
+  show_post_date: false
   author: Steve Kellett, Mel Simmonds-Buckley & Chris Gaskell
   type: collection
   layout: single-series
@@ -35,13 +35,13 @@ cascade:
       | Time  | Topic                                                                           |
       |:--------------- |:--------------------------------------------------------------------- |
       | 09:30 Day 1     | Hello & Introductions                                                 |
-      |                 | [01: Introduction](act-01/01-introduction/)                      |
-      |                 | [02: Designing SCEDs](act-01/02-style-guide)       |
-      |                 | [03: Measures](act-01/03-xaringan-extras)                      |
-      | 09:30 Day 2     | [04: Introductin to Analysis](act-02/04-effective-communication)      |
-      |                 | [05: Your Turn!](act-02/05-accessible-design)                  |
+      |                 | 01: Introduction to SCED                      |
+      |                 | 02: Designing SCEDs      |
+      |                 | 03: Measures                    |
+      | 09:30 Day 2     | 04: Analysis     |
+      |                 | 05: Your Turn!                 |
       |           | Questions & Goodbye                                                   |
-    show_sidebar_adunit: true # show ad container
+    show_sidebar_adunit: false # show ad container
     text_series_label: "Outline" 
     text_contents_label: "On this page" 
 ---
