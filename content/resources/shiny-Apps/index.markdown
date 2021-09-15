@@ -2,7 +2,7 @@
 title: Shiny Apps
 author:
 date: '2022-24-08'
-slug: Shiny apps for single case experimental design.
+slug: Shiny Apps
 categories: []
 tags:
   - Shiny
