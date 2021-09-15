@@ -1,6 +1,6 @@
 ---
-# action_label: Read More &rarr;
-# action_link: /about
+action_label: Read More &rarr;
+action_link: /about
 action_type: text
 description: General text about the single case design.
 image_left: true
