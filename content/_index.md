@@ -8,7 +8,7 @@ images:
 - sced.jpg
 show_action_link: true
 show_social_links: false
-subtitle: A Guide for routine conditions
+subtitle: A Guide for routine clinicians
 text_align_left: false
 title: Single Case Design
 type: home

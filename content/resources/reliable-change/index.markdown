@@ -2,7 +2,7 @@
 title: Reliable & Clinical Change
 author:
 date: '2022-24-08'
-slug: Shiny apps for single case experimental design.
+slug: Reliable Change
 categories: []
 tags:
   - Shiny

@@ -2,7 +2,7 @@
 title: Software table
 author:
 date: '2022-24-08'
-slug: Shiny apps for single case experimental design.
+slug: Software table
 categories: []
 tags:
   - Shiny

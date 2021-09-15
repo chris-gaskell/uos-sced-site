@@ -2,7 +2,7 @@
 title: Auto-correlation
 author:
 date: '2022-24-08'
-slug: Shiny apps for single case experimental design.
+slug: Auto-correlation
 categories: []
 tags:
   - Shiny

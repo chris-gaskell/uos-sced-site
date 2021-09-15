@@ -17,3 +17,5 @@
   {{ $mainJs := resources.Get "js/main.js" | js.Build "main.js" | minify | fingerprint }}
   <script src="{{ $mainJs.RelPermalink }}" type="text/javascript"></script>
 </head>
+
+<link rel="shortcut icon" href="{img/favicon.ico}" />
