@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Single Case Experimental Design: A hub for routine clinicians"
+title = "SCED for clinicians"
 author = "Steve Kellett, Mel Simmonds-Buckley & Chris Gaskell"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "PEARLs Lab"
   orgLocal = "University of Sheffield"
   description = "A website For all resources related to single case experimental design."
-  favicon = "/img/favicon.ico"
-  logo = "/img/logo.png"
+  #favicon = "/img/favicon.ico"
+  #logo = "/img/logo.png"
   mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
