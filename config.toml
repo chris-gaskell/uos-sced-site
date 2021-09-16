@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "University of Sheffield"
   description = "A website For all resources related to single case experimental design."
   #favicon = "/img/favicon.ico"
-  #logo = "/img/logo.png"
+  logo = "/img/favicon.ico"
   mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
