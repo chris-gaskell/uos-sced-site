@@ -3,9 +3,9 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Single case experimental design 
+  Single case design 
 ---
 
 <!-- this is a subheadline -->
-... Mel and Steve to do this bit.
+Psychological interventions are fundamentally about delivering change for individuals. Despite this, there is relatively little time spent within psychological therapist training courses around teaching clinicians how to evaluate change occurrence.
 

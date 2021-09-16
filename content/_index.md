@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: General text about the single case design.
+description: An educational website to encourage and develop ways of evaluating psychological change in real world settings.
 image_left: true
 images:
 - sced.jpg
 show_action_link: true
 show_social_links: false
-subtitle: A Guide for routine clinicians
+subtitle: Resources for routine clinicians
 text_align_left: false
 title: Single Case Design
 type: home

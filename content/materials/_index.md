@@ -29,7 +29,7 @@ cascade:
       
       ---
       
-      Thia workshop is scheduled to take place twice per year, in the October (clinical psychology students) and in the March (clinical associate psychology students). 
+      This two-day workshop takes place twice per year, in the October (clinical psychology trainees) and in the March (clinical associate psychology trainees). 
 
       
       | Time  | Topic                                                                           |

@@ -5,14 +5,14 @@ show_post_date: false
 publishDate: 2021-07-06
 excerpt: ""
 links:
-- icon: images
-  icon_pack: fas
-  name: slides
-  url: "/slides/07-accessibility-css-html.html"
-- icon: theater-masks
-  icon_pack: fas
-  name: activity
-  url: "/materials/act-03/07-accessibility-css-html/#activity"
+#- icon: images
+#  icon_pack: fas
+#  name: slides
+#  url: "/slides/07-accessibility-css-html.html"
+#- icon: theater-masks
+#  icon_pack: fas
+#  name: activity
+#  url: "/materials/act-03/07-accessibility-css-html/#activity"
 ---
 
 ```{r setup, include=FALSE}

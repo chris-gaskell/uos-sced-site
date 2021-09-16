@@ -1,12 +1,11 @@
 ---
 ## Configure page content in wide column
-title: "Why SCED?" # leave blank to exclude
+title: "Why Evaluate?" # leave blank to exclude
 number_featured: 0 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
-intro: |
-  ... Mel and Steve to do this bit.
+intro: ... Mel and Steve to do this bit.
 
 ---
 
