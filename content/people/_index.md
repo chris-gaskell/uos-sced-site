@@ -1,9 +1,9 @@
 ---
-title: Meet the Team
-description: "👋 Hey there! We're excited to meet you."
-show_post_thumbnail: true
-show_author_byline: false
-show_post_date: false
+title: "Meet the Team"
+description: "\U0001F44B Hey there! We're excited to meet you."
+show_post_thumbnail: yes
+show_author_byline: no
+show_post_date: no
 layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
