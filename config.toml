@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "PEARLs Lab"
   orgLocal = "University of Sheffield"
   description = "A website For all resources related to single case experimental design."
-  #favicon = "/img/favicon.ico"
-  logo = "/img/favicon.ico"
+  #favicon = "/img/logo_rounded.ico"
+  #logo = "/img/flower.ico"
   mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
