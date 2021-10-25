@@ -1,0 +1,32 @@
+---
+title: "Teaching Slides"
+weight: 1
+show_post_date: false
+publishDate: 2021-07-06
+excerpt: ""
+links:
+#- icon: images
+#  icon_pack: fas
+#  name: slides
+#  url: "/slides/07-accessibility-css-html.html"
+#- icon: theater-masks
+#  icon_pack: fas
+#  name: activity
+#  url: "/materials/act-03/07-accessibility-css-html/#activity"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE)
+
+xaringanExtra::use_clipboard()
+```
+
+# Clinical psychology trainees
+```{r embed-xaringan-dclin, echo=FALSE, eval=TRUE}
+xaringanExtra::embed_xaringan(url = "https://chris-gaskell.github.io/uos-sced/assignment/dclin/index.html#1")
+```
+
+# Clinical associate psychology trainees
+```{r embed-xaringan-caps, echo=FALSE, eval=TRUE}
+xaringanExtra::embed_xaringan(url = "https://chris-gaskell.github.io/uos-sced/assignment/caps/index.html#1")
+```
