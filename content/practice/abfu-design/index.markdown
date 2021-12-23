@@ -1,7 +1,7 @@
 ---
 title: Follow up
-#author: Chris Gaskell
-#date: '2022-24-08'
+author: Mel Simmonds-Buckley
+date: 2021-11-01
 #slug: Shiny apps for single case experimental design.
 categories: []
 tags:
@@ -31,10 +31,6 @@ links:
   icon_pack: fas
   name: RCI book
   url: "/practice/abfu-design/files/leeds-manual.pdf"
-- icon: book
-  icon_pack: fas
-  name: excel guide
-  url: "/practice/abfu-design/files/excel-guide.pdf"
 - icon: file-powerpoint
   icon_pack: fas
   name: Presentation
@@ -47,5 +43,9 @@ links:
   icon_pack: fas
   name: IES
   url: "/practice/abfu-design/files/Creamer-ies.pdf"
+- icon: book
+  icon_pack: fas
+  name: Shiny calculator guide
+  url: "/practice/abfu-design/files/shiny-guide.pdf"
 
 ---

@@ -1,7 +1,7 @@
 ---
+date: 2021-11-12
 title: Bi-phasic
-#author: Chris Gaskell
-#date: '2022-24-08'
+author: Mel Simmonds-Buckley
 #slug: Shiny apps for single case experimental design.
 categories: []
 tags:
@@ -38,6 +38,18 @@ links:
 - icon: file-powerpoint
   icon_pack: fas
   name: Presentation
-  url: "/practice/ab-design/files/Presentation_template.pptx"
+  url: "/practice/ab-design/files/results-template.pptx"
+- icon: book
+  icon_pack: fas
+  name: CORE-OM paper
+  url: "/practice/ab-design/files/Connell-CORE.pdf"
+- icon: book
+  icon_pack: fas
+  name: PHQ9 paper
+  url: "/practice/ab-design/files/McMillan2010.pdf"
+- icon: file-archive
+  icon_pack: fas
+  name: txt files
+  url: "/practice/ab-design/files/AB-txt-files.zip"
 weight: 1
 ---

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on SCED for clinicians</title>
+    <link>/tags/web/</link>
+    <description>Recent content in Web on SCED for clinicians</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bi-phasic</title>
+      <link>/practice/ab-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/practice/ab-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternating treatments</title>
+      <link>/practice/abc-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/practice/abc-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-correlation</title>
+      <link>/resources/auto-correlation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/auto-correlation/</guid>
+      <description>Lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Follow up</title>
+      <link>/practice/abfu-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/practice/abfu-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glossary of terms</title>
+      <link>/resources/glossary-of-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/glossary-of-terms/</guid>
+      <description>Lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Guidance papers</title>
+      <link>/resources/guidance-papers-on-single-case-experimental-design./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/guidance-papers-on-single-case-experimental-design./</guid>
+      <description>Here are a series of links to guidance papers using single case experimental design within clinical practice.
+CREATING SINGLE-SUBJECT DESIGN GRAPHS IN MICROSOFT EXCELTM
+  (Effect) Size Matters: And So Does the Calculation. (Olive &amp;amp; Franco, 2008)  Using AB Designs With Nonoverlap Effect Size Measures to Support Clinical Decision-Making A Monte Carlo Validation. (Giannakakos &amp;amp; Lanovaz, 2019)  Creating Single-Subject Design Graphs in Microsoft Excel (Dixon et al., 2009)   Single-case experimental designs to assess intervention effectiveness in rehabilitation: A practical guide.</description>
+    </item>
+    
+    <item>
+      <title>Published papers</title>
+      <link>/resources/published-papers-on-single-case-experimental-design./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/published-papers-on-single-case-experimental-design./</guid>
+      <description>Here are a series of links to published papers using single case experimental design within clinical practice.
+  Cognitive Analytical Therapy for borderline perosnality disorder using an ABAB design.  Cognitive Behavioural Therapy for compulsive buying disorder using an ABC design.  Cognitive Behavioural Therapy for reassurance seeking using an ABCD design.  Cognitive Behavioural Therapy for delsions using an AB design. design.  Cognitive Behavioural Therapy for chronic pain using an AB design.</description>
+    </item>
+    
+    <item>
+      <title>Reliable &amp; Clinical Change</title>
+      <link>/resources/reliable-change/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/reliable-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reporting guidelines</title>
+      <link>/resources/shiny-apps-for-single-case-experimental-design./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/shiny-apps-for-single-case-experimental-design./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny Apps</title>
+      <link>/resources/shiny-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/shiny-apps/</guid>
+      <description>A Shiny application is a directory containing a interface and set of scripts to provide a series of functions. In other words a Shiny app is a web application which takes the underlying code (i.e. under the hood), and transforms this into a much more user-friendly interface. This helps to make quite complicated analyses and functions accessible. The caveat is that this reduces functionality and flexibility, therefore there may be limits in the degree to which you can get what you need to from the shiny apps.</description>
+    </item>
+    
+    <item>
+      <title>Software table</title>
+      <link>/resources/software-table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/software-table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Withdrawal</title>
+      <link>/practice/abab-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/practice/abab-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

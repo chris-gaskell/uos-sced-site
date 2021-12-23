@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practice packs on SCED for clinicians</title>
+    <link>/practice/</link>
+    <description>Recent content in Practice packs on SCED for clinicians</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/practice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bi-phasic</title>
+      <link>/practice/ab-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/practice/ab-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternating treatments</title>
+      <link>/practice/abc-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/practice/abc-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Follow up</title>
+      <link>/practice/abfu-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/practice/abfu-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Withdrawal</title>
+      <link>/practice/abab-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/practice/abab-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
