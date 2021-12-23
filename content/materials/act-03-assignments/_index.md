@@ -18,6 +18,6 @@ Assignment guidelines.cascade:
 
 ## Materials
 
-Click on the 'Teaching Slides' link on the left sidebar menu to explore the slides for today.
+Click on the 'Teaching Slides' link on the left To view the slides relating to the assignment.
 
 ---
