@@ -1,8 +1,8 @@
 ---
-title: Auto-correlation
+title: Auto-correlate
 author:
 date: 2021-11-01
-slug: Auto-corr
+slug: Auto-correlate
 categories: []
 tags:
   - Shiny
