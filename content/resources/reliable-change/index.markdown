@@ -2,7 +2,7 @@
 title: Reliable & Clinical Change
 author:
 date: '2022-24-08'
-slug: Reliable Change
+slug: reliable-change
 categories: []
 tags:
   - Shiny
