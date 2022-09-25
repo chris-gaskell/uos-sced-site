@@ -2,7 +2,7 @@
 title: Glossary of terms
 author:
 date: '2022-24-08'
-slug: Glossary of terms
+slug: glossary-terms
 categories: []
 tags:
   - Shiny
