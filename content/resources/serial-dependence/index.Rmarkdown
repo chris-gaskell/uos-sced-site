@@ -1,7 +1,7 @@
 ---
 title: Auto-correlation
 author:
-date: '2022-24-08'
+date: 2021-11-01
 slug: Auto-correlation
 categories: []
 tags:
@@ -17,7 +17,7 @@ runtime: shiny
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: SPSS guide
+  name: SPSS guide 
   url: "/resources/serial-dependence/spss-guide.pdf"
 - icon: file-code
   icon_pack: fas
@@ -27,6 +27,10 @@ links:
   icon_pack: fas
   name: SPSS syntax
   url: "/resources/serial-dependence/spss-syntax.sav"
+- icon: book
+  icon_pack: fas
+  name: Excel guide
+  url: "/resources/serial-dependence/auto_corr-guide.pdf"
 ---
 
 Lorem ipsum. 

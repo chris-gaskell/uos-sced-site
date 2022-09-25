@@ -25,6 +25,6 @@ links:
   url: "/resources/excel-guide/excel-data.xlsx"
 - icon: poll
   icon_pack: fas
-  name: Software table
+  name: Excel results
   url: "/resources/excel-guide/excel-results.pdf"
 ---
